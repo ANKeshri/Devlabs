@@ -97,7 +97,7 @@ const movies = [
     description: "Glip is a collaborative platform designed for teams to communicate, manage projects, and streamline workflows effectively.",
     image: "https://play-lh.googleusercontent.com/DsOKQLPInFkgwR6Z4DgSV5nDuY_Af7A_0HzwYptEpeq8yhroQ8vHLpaAwa3w1ZkUWHQ",
     "releaseDate": "2014-05-15"
-  }
+  },
 
 ];
 const Collaboration = () => {
