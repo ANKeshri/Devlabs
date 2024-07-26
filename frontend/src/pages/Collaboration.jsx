@@ -91,6 +91,13 @@ const movies = [
       "https://i.pinimg.com/564x/17/06/c9/1706c9f16bd08eb5e03f1df3e0a94a1c.jpg",
     releaseDate: "2016-9-27",
   },
+  {
+    title: "Glip",
+    category: "Collaboration Tools",
+    description: "Glip is a collaborative platform designed for teams to communicate, manage projects, and streamline workflows effectively.",
+    image: "https://play-lh.googleusercontent.com/DsOKQLPInFkgwR6Z4DgSV5nDuY_Af7A_0HzwYptEpeq8yhroQ8vHLpaAwa3w1ZkUWHQ",
+    "releaseDate": "2014-05-15"
+  }
 
 ];
 const Collaboration = () => {
